@@ -18,6 +18,8 @@ Ideally, we really push hard on making our own development language and refining
 - [Search](https://github.com/HaramG/ms/blob/master/Search/search) function unique to all views
 - [Board](https://github.com/HaramG/ms/tree/master/Board) interface for thought management
 - [Native](https://github.com/HaramG/ms/blob/master/Native/native-apps.md) apps to develop
+- [Languages](https://github.com/HaramG/ms/tree/master/languages) to translate for an international experience
+- A MAJOR game to develop (can't show you enough of this)
 
 Here are the native app recipes you've cooked sub/consciously as of yet:
 - [Circles](https://github.com/HaramG/ms/blob/master/Native/circles/circles) app is a social browsing platform on steroids
