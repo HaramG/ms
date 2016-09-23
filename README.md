@@ -14,7 +14,7 @@ There's an infinity of things we'll have to do, exactly. So getting this out of 
 As the first developers, we get to choose which areas of the website we work to bringing in reality. We must develop a very strong API that'll allow code-friendly and completely code-obsolete beings to produce content and code.
 
 Ideally, we really push hard on making our own development language and refining it through time. Making it intuitive is pretty much my only job. If you didn't and still want to contribute, here's a list of things we have to get out of the way:
-- Graphic design/UI
+- [Graphic design/UI](https://github.com/HaramG/ms/tree/master/ui)
 - [Search](https://github.com/HaramG/ms/blob/master/Search/search) function unique to all views
 - [Board](https://github.com/HaramG/ms/tree/master/Board) interface for thought management
 - [Native](https://github.com/HaramG/ms/blob/master/Native/native-apps.md) apps to develop
