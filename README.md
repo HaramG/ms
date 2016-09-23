@@ -15,9 +15,9 @@ As the first developers, we get to choose which areas of the website we work to 
 
 Ideally, we really push hard on making our own development language and refining it through time. Making it intuitive is pretty much my only job. If you didn't and still want to contribute, here's a list of things we have to get out of the way:
 - Graphic design/UI
-- Search function unique to all views
-- Board interface for thought management
-- Native apps to develop
+- [Search](https://github.com/HaramG/ms/blob/master/Search/search) function unique to all views
+- [Board](https://github.com/HaramG/ms/tree/master/Board) interface for thought management
+- [Native](https://github.com/HaramG/ms/blob/master/Native/native-apps.md) apps to develop
 
 Here are the native app recipes you've cooked sub/consciously as of yet:
 - [Circles](https://github.com/HaramG/ms/blob/master/Native/circles/circles) app is a social browsing platform on steroids
@@ -47,8 +47,8 @@ Here's a list of types of thoughts you can create (with the creator, normally):
 - [Poll](https://github.com/HaramG/ms/blob/master/Thought/types/poll); Vote and have programmatic changes be applied based on settings
 
 Here's a list of attributes you can apply to a thought, as of yet:
-- Characteristics (single-view, advertisement, privacy, gore, adult)
-- Tags and Categories (for search optimization)
+- [Characteristics](https://github.com/HaramG/ms/blob/master/Thought/attributes/characteristics.md) (single-view, advertisement, privacy, gore, adult)
+- [Tags and Categories](https://github.com/HaramG/ms/blob/master/Thought/attributes/categories%20and%20tags) (for search optimization)
 - Widgets (super amazing enhancement to every thought)
 
 This is an open-source project for obvious reasons.
