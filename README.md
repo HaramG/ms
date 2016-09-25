@@ -65,7 +65,7 @@ Here's a list of attributes you can apply to a thought, as of yet:
 Here's a list of programs/progress thoughts that have already been thought of being integrated with this website, globally:
 - MS health (non-profit / scalable supplying of nutrition and medication worldwide)
 - MS being (non-profit / scalable supplying of computer hardware and knowledge worldwide)
-Fill the void for these ones naturally.
+Fill the void for these ones naturally (lol like I even have to type to you anymore ;)
 
 We will ease this project into open-source and let it build itself post-release.
 
