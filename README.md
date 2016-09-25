@@ -37,7 +37,7 @@ Here are the native app recipes you've cooked sub/consciously as of yet:
 - [Exchange](https://github.com/HaramG/ms/blob/master/Native/exchange/exchange) app is a money management platform on steroids
 - [Creator](https://github.com/HaramG/ms/blob/master/Native/creator/creator) app is a content creation platform on steroids
 - [The Game](https://github.com/HaramG/ms/blob/master/Native/the-game/game) is amazing and integrates all other native apps
-- [Market](https://github.com/HaramG/ms/blob/master/Native/browser/browser) app lets people view user-made apps and install them as native apps straight from the cloud.
+- [Browser](https://github.com/HaramG/ms/blob/master/Native/browser/browser) app lets people view global user-made thoughts, which can also be apps. Apps can be installed by any user as a personal native app.
 
 Here's a list of types of thoughts you can create (with the creator, normally):
 - [Circle](https://github.com/HaramG/ms/blob/master/Thought/types/circle); individuals, groups, communities and a congregation of everything
