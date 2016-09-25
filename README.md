@@ -1,6 +1,8 @@
 # ms
 There's too much to go over in a short file, sit tight.
 
+This is meant to be a complete reference for developers who really want to make a change in the world by simply contributing to an open-source project!
+
 I'll start off by clearly stating the goals we'll have to work to produce a quality experience for the people who'll use the website, in addition to the common routes I end up following when thinking about it.
 
 The original vision is to express [thoughts](https://github.com/HaramG/ms/blob/master/Thought/thoughts.md) and let people follow their own patterns smartly on the internet to create a big bubble of joy.
