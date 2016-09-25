@@ -55,11 +55,17 @@ Here's a list of types of thoughts you can create (with the creator, normally):
 - [Download](https://github.com/HaramG/ms/blob/master/Thought/types/download); Download a virus
 - [Feed](https://github.com/HaramG/ms/blob/master/Thought/types/feed); Time-line of thoughts based on settings
 - [Poll](https://github.com/HaramG/ms/blob/master/Thought/types/poll); Vote and have programmatic changes be applied based on settings
+- [Progress](https://github.com/HaramG/ms/blob/master/Thought/types/prorgess); Fundraise and track endeavors
 
 Here's a list of attributes you can apply to a thought, as of yet:
 - [Characteristics](https://github.com/HaramG/ms/blob/master/Thought/attributes/characteristics.md) (single-view, advertisement, privacy, gore, adult)
 - [Tags and Categories](https://github.com/HaramG/ms/blob/master/Thought/attributes/categories%20and%20tags) (for search optimization)
 - Widgets (super amazing enhancement to every thought)
+
+Here's a list of programs/progress thoughts that have already been thought of being integrated with this website, globally:
+- MS health (non-profit / scalable supplying of nutrition and medication worldwide)
+- MS being (non-profit / scalable supplying of computer hardware and knowledge worldwide)
+Fill the void for these ones naturally.
 
 We will ease this project into open-source and let it build itself post-release.
 
