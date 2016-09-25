@@ -70,5 +70,7 @@ Fill the void for these ones naturally (lol like I even have to type to you anym
 We will ease this project into open-source and let it build itself post-release.
 
 Read every part of the resource and you're in; not literally. You can flip through the pages, just contact me this way:
+
 e-mail: 1628jayg@gmail.com
+
 skype: datimpot
