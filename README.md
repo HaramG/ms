@@ -3,7 +3,7 @@ There's too much to go over in a short file, sit tight.
 
 I'll start off by clearly stating the goals we'll have to work to produce a quality experience for the people who'll use the website, in addition to the common routes I end up following when thinking about it.
 
-The original vision is to express thoughts and let people follow their own patterns smartly on the internet to create a big bubble of joy.
+The original vision is to express [thoughts](https://github.com/HaramG/ms/blob/master/Thought/thoughts.md) and let people follow their own patterns smartly on the internet to create a big bubble of joy.
 
 For the sake of scalability and easy management, we will develop a single web app that will work on kinds and shapes of devices. We must keep in mind how fast and the angle at which we will scale the site. This means being able to visualize tiny details day to day.
 
@@ -16,7 +16,6 @@ We will use:
   - Storage
   - Real-time Database
   - Auth
-
 
 I want you to experience the future for yourself, it's really implicit here.
 
@@ -63,3 +62,7 @@ Here's a list of attributes you can apply to a thought, as of yet:
 - Widgets (super amazing enhancement to every thought)
 
 We will ease this project into open-source and let it build itself post-release.
+
+Read every part of the resource and you're in; not literally. You can flip through the pages, just contact me this way:
+e-mail: 1628jayg@gmail.com
+skype: datimpot
