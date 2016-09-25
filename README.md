@@ -5,7 +5,18 @@ I'll start off by clearly stating the goals we'll have to work to produce a qual
 
 The original vision is to express thoughts and let people follow their own patterns smartly on the internet to create a big bubble of joy.
 
-We will use: Angular2 and Firebase
+For the sake of scalability and easy management, we will develop a single web app that will work on kinds and shapes of devices. We must keep in mind how fast and the angle at which we will scale the site. This means being able to visualize tiny details day to day.
+
+We will use: 
+- Angular2 final release
+  - [Universal](https://github.com/angular/universal)
+  - [ng2-DND](https://github.com/akserg/ng2-dnd)
+  
+- AngularFire2
+  - Storage
+  - Real-time Database
+  - Auth
+
 
 I want you to experience the future for yourself, it's really implicit here.
 
@@ -14,7 +25,7 @@ There's an infinity of things we'll have to do, exactly. So getting this out of 
 As the first developers, we get to choose which areas of the website we work to bringing in reality. We must develop a very strong API that'll allow code-friendly and completely code-obsolete beings to produce content and code.
 
 Ideally, we really push hard on making our own development language and refining it through time. Making it intuitive is pretty much my only job. If you didn't and still want to contribute, here's a list of things we have to get out of the way:
-- [Graphic design/UI](https://github.com/HaramG/ms/tree/master/ui)
+- [Notifications](https://github.com/HaramG/ms/blob/master/Notifications/notifications)
 - [Search](https://github.com/HaramG/ms/blob/master/Search/search) function unique to all views
 - [Board](https://github.com/HaramG/ms/tree/master/Board) interface for thought management
 - [Native](https://github.com/HaramG/ms/blob/master/Native/native-apps.md) apps to develop
