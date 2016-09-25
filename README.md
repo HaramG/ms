@@ -26,9 +26,7 @@ Here are the native app recipes you've cooked sub/consciously as of yet:
 - [Exchange](https://github.com/HaramG/ms/blob/master/Native/exchange/exchange) app is a money management platform on steroids
 - [Creator](https://github.com/HaramG/ms/blob/master/Native/creator/creator) app is a content creation platform on steroids
 - [The Game](https://github.com/HaramG/ms/blob/master/Native/the-game/game) is amazing and integrates all other native apps
-- [Browser](https://github.com/HaramG/ms/blob/master/Native/browser/browser) app lets people view thoughts without previously being aware of the website
-
-If at any point you don't understand or lose the drift, dissolve ego and proceed.
+- [Market](https://github.com/HaramG/ms/blob/master/Native/browser/browser) app lets people view user-made apps and install them as native apps straight from the cloud.
 
 Here's a list of types of thoughts you can create (with the creator, normally):
 - [Circle](https://github.com/HaramG/ms/blob/master/Thought/types/circle); individuals, groups, communities and a congregation of everything
@@ -53,4 +51,4 @@ Here's a list of attributes you can apply to a thought, as of yet:
 - [Tags and Categories](https://github.com/HaramG/ms/blob/master/Thought/attributes/categories%20and%20tags) (for search optimization)
 - Widgets (super amazing enhancement to every thought)
 
-This is an open-source project for obvious reasons.
+We will ease this project into open-source and let it build itself post-release.
