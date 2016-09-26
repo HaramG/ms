@@ -1,4 +1,6 @@
 # ms
+** STILL BEING BUILT, EVEN THE DOCS, READ WHAT YOU WANT **
+
 There's too much to go over in a short file, sit tight.
 
 This is meant to be a complete reference for developers who really want to make a change in the world by simply contributing to an open-source project!
