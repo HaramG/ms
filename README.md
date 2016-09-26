@@ -1,5 +1,5 @@
 # ms
-** STILL BEING BUILT, EVEN THE DOCS, READ WHAT YOU WANT **
+**STILL BEING BUILT, EVEN THE DOCS, READ WHAT YOU WANT**
 
 There's too much to go over in a short file, sit tight.
 
