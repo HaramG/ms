@@ -68,14 +68,19 @@ Bundled settings (choose one):
 
 They can also toggle certain product types (i.e.: I don't want to see downloadables in order to make the search more efficient).
 
+They also can select which payment types they want to engage in to sort results once again.
+
 Like other websites, they should be allowed to include or exclude the shipping price in the price sorting calculation.
 
-When a result is clicked, independent of type, it is brought to the center of the screen. It is squared in a box where the gold chip spot displays the goldness of the result, in addition to a star/review icon that shows how trustable this result is. This should include a love button, a stats button, a copy button and all other important features set out in the circles definitions.
+When a result is clicked, independent of type, it is brought to the center of the screen. It is squared in a box where the gold chip spot displays the goldness of the result, in addition to a star/review icon that shows how trustable this result is. This should include a love button, a stats button, a copy button and all other important features set out at the start of the doc. Must include accepted payment types section.
+
+The main thought under both results will either be the buy button or the visit store button.
 
 Here's what happens when you click on a result, depending on its type:
 
-- **Store**: Brings the store to the center of the screen (squared) and displays the associated store page under the store display picture. To one side of the picture, there should be a scrollable/easily clickable product showcase of the most popular products, while the other side holds the showcased thoughts of this store, which can be collections of products, products themselves, info pages that include deal information, anything like that. Above the picture there should also be a gold chip spot displaying the current goldness of the shop and an additional review star icon displaying their status. 
-- **Product**:
+- **Store**: Displays categories everywhere around the center box. Inside those categories are listed products and sub-categories that can be clicked in order to display the selected element over the category/subcategory box. Categories, sub-cats and store box should also display the average price of single items (or any other important stat you see fit);
+- **Product**: Products display a link to the store(s) in which it appears, the product price, and a caroussel of pictures representing it. Around the box there should be related products displayed in a stairwell fashion and on the final layer memos left by users who have purchased this product (memos are pulled from the combase linked to that product).
+
 This works very well for anyone wishing to experience the magic of online shopping from another perspective, where they can also have a major impact as mister or misses whoever.
 
 **[Creator](https://github.com/HaramG/ms/blob/master/Native/creator/creator)**
