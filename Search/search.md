@@ -3,6 +3,16 @@ The search function appears as a magnifying glass at the top left of the UI. Cli
 
 On the left most side of the app, when the search is engaged, different intuitive parameters are included. Some are recurring, others are specific to the opened native app (the one in the main view). The parameters combined with the entries supplied by the user will allow the app content to be morphed to the search query based on info pulled from our database!
 
+Every search result should have the important functions outlined here:
+
+- [Love](https://github.com/HaramG/ms/blob/master/Shortcuts/love.md) button
+- [Copy](https://github.com/HaramG/ms/blob/master/Shortcuts/copy.md) button
+- [Stats](https://github.com/HaramG/ms/blob/master/Shortcuts/stats.md) button
+- [Goldness](https://github.com/HaramG/ms/blob/master/Shortcuts/goldness.md)/gold chip spot
+- [ComBase](https://github.com/HaramG/ms/blob/master/Shortcuts/combase.md) link
+
+I recommend you go read on those resources before digging a little deeper. At least get a grasp of what they do and how they operate with the rest of the webapp.
+
 **[Circles](https://github.com/HaramG/ms/blob/master/Native/circles/circles)**
 -
 When Search is open, special behaviour is injected into the circles app. By default, the user's last circles search query is supplied. With an empty field supplied and clean params, the hottest circles, by tier, get displayed in their own tier 1/3, 2/3, 3/3 with the middle representing the whole -- see Congregation lower --
@@ -35,8 +45,38 @@ Bundled settings (choose one):
 
 **[Exchange](https://github.com/HaramG/ms/blob/master/Native/exchange/exchange)**
 -
-Functions very similarly, at least visually and mentally, to the circle searching adventure. The interface, however, doesn't rely as heavily on thought directives and elements, comparatively.
+The exchange search behaviour is a tool used by the user to search for stores and products via the specified settings and parameters.
 
+The results are sorted in a first page, where the amount of results is defined by the user searching. As they scroll past the last one, new results will load. In order to make the searching experience more streamlined, to compare prices between products and stores, users may choose to display an infinite amount of results per page. They can use the infinite scroll or by-page sorting method
+
+Users are also invited to:
+
+- Search by name
+- Search by ID
+- Search by Tags
+- Search by categories
+
+When a specific option for searching for searching By* is selected, the result window should automatically shape itself with the selected bundled setting sorting of the most 'defined' result.
+
+Bundled settings (choose one):
+
+- Users can choose to sort from goldest to coldest;
+- Users can choose to sort from most popular to least popular (views);
+- Users can choose to sort from physical location, closest to farthest;
+- Users can choose to sort from best reviewed;
+- Users can choose to sort from the price (or average price, for stores);
+
+They can also toggle certain product types (i.e.: I don't want to see downloadables in order to make the search more efficient).
+
+Like other websites, they should be allowed to include or exclude the shipping price in the price sorting calculation.
+
+When a result is clicked, independent of type, it is brought to the center of the screen. It is squared in a box where the gold chip spot displays the goldness of the result, in addition to a star/review icon that shows how trustable this result is. This should include a love button, a stats button, a copy button and all other important features set out in the circles definitions.
+
+Here's what happens when you click on a result, depending on its type:
+
+- **Store**: Brings the store to the center of the screen (squared) and displays the associated store page under the store display picture. To one side of the picture, there should be a scrollable/easily clickable product showcase of the most popular products, while the other side holds the showcased thoughts of this store, which can be collections of products, products themselves, info pages that include deal information, anything like that. Above the picture there should also be a gold chip spot displaying the current goldness of the shop and an additional review star icon displaying their status. 
+- **Product**:
+This works very well for anyone wishing to experience the magic of online shopping from another perspective, where they can also have a major impact as mister or misses whoever.
 
 **[Creator](https://github.com/HaramG/ms/blob/master/Native/creator/creator)**
 -
